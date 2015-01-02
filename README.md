@@ -1,4 +1,4 @@
 pcrviz
 ======
 
-code to generate video os PCR
+code to generate video of PCR
